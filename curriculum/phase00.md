@@ -665,7 +665,7 @@ The maximum value occurs when every bit is one:
 This is a geometric series:
 
 \[
-2^N-1
+2^N
 \]
 
 Therefore, the range is:
